@@ -1,0 +1,8 @@
+"start": "Do you know who I am? ", "No?", "deny", "Of course", "play along"
+"deny": "Well, at least you're honest. ", "start over", "start", "quit", "quit"
+"play along": "Well, that's interesting, because I've never seen you before in my life. ", "Let's try that again.", "start", "But I do know you. ", "pressure"
+"pressure": "That's impossible.", "No it isn't. ", "lie", "Yeah, you're right. ", "truth""truth": "Your attempt at deception was unsettling, but I saw right through it. ", "start over", "start", "quit", "quit"
+"lie": "Oh, really.. where from exactly? ", "school.", "defeat", "uhh...", "hesitation""defeat": "So you know of the keepGoing loop?", "absolutely", "comp", "the what now?", "science"
+"comp": "Hm... maybe I do know you..", "start over", "start", "quit", "quit"
+"science": "Aha! You don't! ", "start over", "start", "quit", "quit"
+"hesitation": "You cant even say, hm?", "start over", "start", "quit", "quit"
